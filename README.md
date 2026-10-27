@@ -1,1 +1,1 @@
-# web1
+Wanderly is a travel agency website where users can explore destinations, browse travel packages, customize their trips, calculate estimated costs, save favorites, and make simulated bookings through a modern, user-friendly interface.
